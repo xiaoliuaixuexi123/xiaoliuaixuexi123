@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on School of Precision Instrument and Opto-Electronics Engineering，Tianjin University
+- 🌱 I’m currently learning about algorithms and deep learning
+- 👯 Welcome to discuss with each other
 
 <!--
 **xiaoliuaixuexi123/xiaoliuaixuexi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
